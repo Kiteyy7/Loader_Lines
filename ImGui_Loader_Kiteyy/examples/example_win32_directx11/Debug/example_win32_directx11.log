@@ -1,0 +1,31 @@
+﻿  main.cpp
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(1,1): warning C4828: The file contains a character starting at offset 0x195b that is illegal in the current source character set (codepage 65001).
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(1,1): warning C4828: The file contains a character starting at offset 0x1a77 that is illegal in the current source character set (codepage 65001).
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(1,1): warning C4828: The file contains a character starting at offset 0x1ca0 that is illegal in the current source character set (codepage 65001).
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(1,1): warning C4828: The file contains a character starting at offset 0x1e1c that is illegal in the current source character set (codepage 65001).
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(1,1): warning C4828: The file contains a character starting at offset 0x1e2e that is illegal in the current source character set (codepage 65001).
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(1,1): warning C4828: The file contains a character starting at offset 0x1e71 that is illegal in the current source character set (codepage 65001).
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(145,22): warning C4456: declaration of 'io' hides previous local declaration
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(72,14): message : see declaration of 'io'
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(106,11): warning C4189: 'floattest': local variable is initialized but not referenced
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(101,10): warning C4189: 'show_demo_window': local variable is initialized but not referenced
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(102,10): warning C4189: 'show_another_window': local variable is initialized but not referenced
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(105,9): warning C4189: 'inttest': local variable is initialized but not referenced
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(115,10): warning C4189: 'enableParticles': local variable is initialized but not referenced
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(367,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(373,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(397,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(398,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(387,9): warning C4189: 'b': local variable is initialized but not referenced
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(386,9): warning C4189: 'g': local variable is initialized but not referenced
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(385,9): warning C4189: 'r': local variable is initialized but not referenced
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(421,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(422,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(427,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(433,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(448,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(471,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(471,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(472,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\main.cpp(472,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  example_win32_directx11.vcxproj -> C:\Users\Henrique\Downloads\imgui-master\imgui-master\examples\example_win32_directx11\Debug\example_win32_directx11.exe
